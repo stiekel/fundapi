@@ -1,0 +1,23 @@
+{
+  "name": "fundjs",
+  "version": "0.0.1",
+  "description": "fund data api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiekel/fundjs.git"
+  },
+  "keywords": [
+    "fund",
+    "api"
+  ],
+  "author": "stiekel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stiekel/fundjs/issues"
+  },
+  "homepage": "https://github.com/stiekel/fundjs#readme"
+}
